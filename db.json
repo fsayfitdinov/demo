@@ -5,7 +5,7 @@
       "description": "Some description 2",
       "thumbnail": "meal2.png",
       "price": "40000",
-      "quantity" : 1
+      "quantity" : 0
     },
     {
       "id": "2",
@@ -13,7 +13,7 @@
       "description": "Some description 2",
       "thumbnail": "meal2.png",
       "price": "40000",
-      "quantity" : 1
+      "quantity" : 0
     }
   ]
 }
