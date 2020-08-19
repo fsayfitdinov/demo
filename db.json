@@ -1,7 +1,7 @@
 { "products": [
   {
     "menuId": "1",
-    "name": "menu-item-1",
+    "name": "Гуручбургер",
     "attrs": [
     {
       "id": "1",
@@ -22,7 +22,7 @@
   ]},
   {
     "menuId": "2",
-    "name": "menu-item-2",
+    "name": "Роллы",
     "attrs": [
     {
       "id": "3",
