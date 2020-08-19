@@ -64,27 +64,6 @@
   },
   {
     "menuId": "4",
-    "name": "Роллеры и Буритто",
-    "attrs": [
-    {
-      "id": "7",
-      "title": "Some title 2-1",
-      "description": "Some description 2-1",
-      "thumbnail": "meal2.png",
-      "price": "40000",
-      "quantity" : "0"
-    },
-    {
-      "id": "8",
-      "title": "Some title 2-1",
-      "description": "Some description 2-1",
-      "thumbnail": "meal2.png",
-      "price": "40000",
-      "quantity" : "0"
-    }]
-  },
-  {
-    "menuId": "5",
     "name": "Поке",
     "attrs": [
     {
