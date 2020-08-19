@@ -1,7 +1,7 @@
 { "products": [
   {
     "menu-1":
-    [{
+    {
       "id": "1",
       "title": "Some title 1",
       "description": "Some description 2",
@@ -16,11 +16,11 @@
       "thumbnail": "meal2.png",
       "price": "40000",
       "quantity" : "0"
-    }]
+    }
   },
   {
     "menu-2":
-    [{
+    {
       "id": "1",
       "title": "Some title 2-1",
       "description": "Some description 2-1",
@@ -35,6 +35,6 @@
       "thumbnail": "meal2.png",
       "price": "40000",
       "quantity" : "0"
-    }]
+    }
   }]
 }
