@@ -1,6 +1,6 @@
 { "products": [
   {
-    "id": "1",
+    "menuId": "1",
     "name": "menu-item-1",
     "attrs": [
     {
@@ -21,11 +21,11 @@
     }
   ]},
   {
-    "id": "2",
+    "menuId": "2",
     "name": "menu-item-2",
     "attrs": [
     {
-      "id": "1",
+      "id": "3",
       "title": "Some title 2-1",
       "description": "Some description 2-1",
       "thumbnail": "meal2.png",
@@ -33,7 +33,7 @@
       "quantity" : "0"
     },
     {
-      "id": "2",
+      "id": "4",
       "title": "Some title 2-1",
       "description": "Some description 2-1",
       "thumbnail": "meal2.png",
