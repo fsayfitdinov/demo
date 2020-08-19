@@ -1,6 +1,6 @@
 { "products": [
   {
-    "menu-1": 
+    "menu-1": [
     {
       "id": "1",
       "title": "Some title 1",
@@ -17,7 +17,7 @@
       "price": "40000",
       "quantity" : "0"
     }
-  },
+  }],
   {
     "menu-2": [
     {
@@ -35,6 +35,6 @@
       "thumbnail": "meal2.png",
       "price": "40000",
       "quantity" : "0"
-    }
+    }]
   }
 ]}
